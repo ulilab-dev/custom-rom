@@ -3,6 +3,8 @@
 #### search `about:config`
 
 `privacy.resistFingerprinting = ture`
-change to flase
+
+change to false
+
 `privacy.resistFingerprinting = false`
 
