@@ -4,7 +4,7 @@
 
 `privacy.resistFingerprinting = ture`
 
-change to false
+#### change to false
 
 `privacy.resistFingerprinting = false`
 
