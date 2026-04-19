@@ -1,10 +1,6 @@
-# allow-dark-mode-on-librewolf
+# custom rom
 
-#### search `about:config`
+#### twrp/orangefox
 
-`privacy.resistFingerprinting = ture`
-
-#### change to false
-
-`privacy.resistFingerprinting = false`
+`fastboot flash vendor_boot twrp/orangefox`
 
